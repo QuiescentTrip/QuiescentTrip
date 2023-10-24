@@ -31,7 +31,6 @@
  📧 &emsp; Reach me anytime: temolantern@gmail.com<br/><br/>
 
 </p>
-
 <br/>
 
 ## Use To Code
@@ -48,6 +47,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-F05032?style=for-the-badge&logo=Svelte&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-F05032?style=for-the-badge&logo=Electron&logoColor=white)
+
 <br/>
 
 ## My Stats
