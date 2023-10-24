@@ -2,9 +2,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=QuiescentTrip&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-[![wakatime](https://wakatime.com/badge/user/018b62e7-f900-47c4-b650-4fc66447cb92.svg)](https://wakatime.com/@018b62e7-f900-47c4-b650-4fc66447cb92)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
