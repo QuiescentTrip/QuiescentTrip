@@ -49,7 +49,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-F05032?style=for-the-badge&logo=Svelte&logoColor=white)
 
 <br/>
 <!--
