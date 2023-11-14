@@ -52,8 +52,8 @@
 
 ## My Stats
 <p align="center">
-  <a href="[https://github.com/QuiescentTrip](https://app.hackthebox.com/users/540662)">
-    <img src="https://app.hackthebox.com/users/540662" alt="HTB account"/>
+  <a href="[HTB](https://app.hackthebox.com/users/540662)">
+    [ ![Quiescent](https://www.hackthebox.eu/badge/image/540662)](https://www.hackthebox.eu/home/users/profile/540662)
   </a>
 </p>
 
