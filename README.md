@@ -1,3 +1,5 @@
+[ ![Quiescent](https://www.hackthebox.eu/badge/image/540662)](https://www.hackthebox.eu/home/users/profile/540662)
+
 <a href="https://komarev.com/ghpvc/?username=QuiescentTrip">
   <img align="right" src="https://komarev.com/ghpvc/?username=QuiescentTrip&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -51,11 +53,6 @@
 <br/>
 
 ## My Stats
-<p align="center">
-  <a href="[https://github.com/QuiescentTrip](https://www.hackthebox.eu/home/users/profile/540662)">
-[ ![Quiescent](https://www.hackthebox.eu/badge/image/540662)](https://www.hackthebox.eu/home/users/profile/540662)
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/QuiescentTrip">
