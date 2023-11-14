@@ -51,6 +51,11 @@
 <br/>
 
 ## My Stats
+<p align="center">
+  <a href="[https://github.com/QuiescentTrip](https://app.hackthebox.com/users/540662)">
+    <img src="https://app.hackthebox.com/users/540662" alt="HTB account"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/QuiescentTrip">
